@@ -81,6 +81,7 @@
         100%{transform:scaleY(1);}
     }
     .comical{animation:scaling 0.5s infinite linear;}
+    /*Thanks for watching!*/
   `
     writeCode('', code)
 
